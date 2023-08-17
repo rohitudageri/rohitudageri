@@ -1,30 +1,30 @@
-![logo](https://github.com/rohitudageri/rohitudageri/blob/main/Picsart_23-06-28_14-54-18-459~2.jpg)
+### Hi there 👋, my name is Rohit Udageri
+#### Welcome to my Github Profile !!
+<img align = "right" alt = "coding" width = "400" height = "250" src = "https://ik.imagekit.io/dresma/Dresma_Library/manager-openings_NW3bXTTFP.gif"> 
 
-<h1 align="center">Hi 👋, I'm Rohit Udageri</h1>
-<h3 align="center">Aspiring Data Scientist | Unleashing Insights from Data</h3>
+I'm a aspiring data scientist, my strength lies in handling and studying big sets of information. I find hidden trends and patterns in the data world to help businesses improve. I am skilled in a variety of data analysis tools, and techniques, including data visualization, statistical analysis, data mining and also data scrapping.I am passionate about turning data into insights and solutions, and I am always seeking new ways to drive data-driven decision making and I'm always excited to discover new methods to do this even better!
 
-<img align = "right" alt = "coding" width = "400" src = "https://ik.imagekit.io/dresma/Dresma_Library/manager-openings_NW3bXTTFP.gif"> 
+# 💫 About Me:
+👀 I’m interested in Data Analytics & Machine Learning <br>🌱 I am presently searching for opporunties to work in Data Science.<br>📝 I regularly posts my learnings about DA & ML on [LinkedIn](www.linkedin.com/in/rohitudageri/)<br>⚡I gather data, checkout on [Kaggle](https://www.kaggle.com/rohitudageri)<br>📫 How to reach me rohitudageri24@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitudageri&label=Profile%20views&color=0e75b6&style=flat" alt="rohitudageri" /> </p>
 
-- 🌱 I’m currently learning **Statistics , Machine Learning**
+# 💻 Skills: 
+* SQL
+* Python
+* EDA 
+* Machine Learning
+* Statistics
+* Power BI
+* Data analysis
 
-- 💬 Ask me about **Python , SQL , PowerBI**
 
-- 📫 How to reach me **rohitudageri24@gmail.com**
+## 🌐 Socials:
+[<img src='https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png' alt='linkedin' height='40'>](www.linkedin.com/in/rohitudageri/) [<img src='https://storage.scolary.com/storage/file/public/71b68248-ba0a-4b26-b15f-0c77cdf341cd.svg' alt='Kaggle' height='40'>](https://www.kaggle.com/rohitudageri)  [<img src='https://sjc6.discourse-cdn.com/standard17/user_avatar/forum.novypro.com/novypro.support.team/240/10_2.png' alt='novyPro' height='40'>](https://www.novypro.com/project/sales-analysis-dashboard---power-bi) 
 
-- ⚡ Fun fact **I can turn raw data into goldmine insights! 🌟🔍💡**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rohitudageri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohitudageri" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitudageri&show_icons=true&locale=en&layout=compact" alt="rohitudageri" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitudageri&show_icons=true&locale=en" alt="rohitudageri" /></p>
+# 📊 GitHub Stats:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitudageri&" alt="rohitudageri" /></p>
+
+
+
