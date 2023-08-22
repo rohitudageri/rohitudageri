@@ -20,6 +20,7 @@ As an aspiring data scientist, my strength lies in handling and studying big set
 * Statistics
 * Power BI
 * Data analysis
+* MS - Excel
 
 
 ## 🌐 Socials:
