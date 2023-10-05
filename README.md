@@ -4,7 +4,9 @@
 
 <img align = "center" alt = "coding" width = "400"  src = "https://ik.imagekit.io/dresma/Dresma_Library/manager-openings_NW3bXTTFP.gif"> 
 <br>
-As an aspiring data scientist, my strength lies in handling and studying big sets of information. I find hidden trends and patterns in the data world to help businesses improve. I am skilled in a variety of data analysis tools, and techniques, including data visualization, statistical analysis, data mining and also data scrapping.I am passionate about turning data into insights and solutions, and I am always seeking new ways to drive data-driven decision making and I'm always excited to discover new methods to do this even better!
+A dedicated Data Science professional with hands-on experience in machine learning, data analysis, and
+model deployment. Seeking to leverage my skills in a dynamic team to drive business insights through data
+analysis.
 
 
 # 💫 About Me:
